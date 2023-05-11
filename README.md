@@ -1,15 +1,11 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itprotoday.com%2Fdevops-and-software-development%2Fprogramming-evolution-how-coding-has-grown-easier-past-decade&psig=AOvVaw0Mx0of4tp-GpjBh8CETbCn&ust=1683914754992000&source=images&cd=vfe&ved=2ahUKEwiGjtm37e3-AhULJsAKHZP_BXQQjRx6BAgAEAw)]
 <h1 align="center">Hi 👋, I'm Kifle</h1>
 <h3 align="center">A passionate full-stack software developer from Ethiopia</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw3s48LMbLwPuICrRAoS9DbW&ust=1683913774413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj72eXp7f4CFQAAAAAdAAAAABAF">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kifle23&label=Profile%20views&color=0e75b6&style=flat" alt="kifle23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kifle23" alt="kifle23" /></a> </p>
-
-- 🌱 I’m currently learning **Full-Stack Software Development using JavaScript, Ruby, Rails, React and, Redux**
+- 🌱 I’m currently learning **Full-Stack Software Development using JavaScript, Ruby, Rails, React and, Redux @Microverse**
 
 - 👨‍💻 All of my projects are available at [https://kifle23.github.io/Portfolio-setup-and-mobile-first/](https://kifle23.github.io/Portfolio-setup-and-mobile-first/)
-
-- 💬 Ask me about **Anything related to coding**
 
 - 📫 How to reach me **kiflekifle23@gmail.com**
 
