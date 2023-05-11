@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Software Development using JavaScript, Ruby, Rails, React and, Redux @Microverse**
 
-- 👨‍💻 Portfolio...Coming Soon
+- 👨‍💻 Portfolio [https://kifle23.github.io/Portfolio-setup-and-mobile-first/](https://kifle23.github.io/Portfolio-setup-and-mobile-first/)
 
 - 📫 How to reach me **kiflekifle23@gmail.com**
 
