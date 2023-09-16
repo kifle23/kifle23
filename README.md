@@ -9,7 +9,7 @@
 
 - 🌱 I've MSc in **Software Engineering**
 
-- 👨‍💻 [Click here to view my Portfolio](https://kifle23.github.io/Portfolio-setup-and-mobile-first/)
+- 👨‍💻 [Click here to view my Portfolio](https://kifle23.github.io/Portfolio/)
 
 - 📫 How to reach me **kiflekifle23@gmail.com**
 
