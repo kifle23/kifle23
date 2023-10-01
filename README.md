@@ -1,6 +1,6 @@
 [![MasterHead](https://eps.leeds.ac.uk/images/shutterstock_1122339353.jpg)]
 <h1 align="center">Hi 👋, I'm Kifle</h1>
-<h3 align="center">A passionate full-stack software developer</h3>
+<h3 align="center">A passionate full-stack software developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 
 - 🌱 I’m currently learning **Full-Stack Software Development using JavaScript, React/Redux, Ruby, Ruby on Rails @Microverse**
