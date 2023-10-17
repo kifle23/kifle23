@@ -5,9 +5,9 @@
 
 - 🏢 Full Stack Developer **@Microverse**
   
-- 🌱 I've more than 10years of experience developing **dot net projects**
+- 🌱 10+ years of experience developing **dot net projects**
 
-- 🌱 I've MSc in **Software Engineering**
+- 🌱 MSc in **Software Engineering**
 
 - 👨‍💻 [Click here to view my Portfolio](https://kifle23.github.io/Portfolio/)
 
