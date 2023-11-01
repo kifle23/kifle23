@@ -16,10 +16,10 @@
 
 - 📫 How to reach me **kiflekifle23@gmail.com**
 
-<h3 align="left" style="display: inline;">Connect with me 👉</h3>
+<h3 align="left" style="display: inline;">Connect with me</h3>
 <p align="left" style="display: inline;">
-  <a href="https://linkedin.com/in/kifle-haile-5a613761" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kifle-haile-5a613761" height="15" width="25" />
+  <a href="https://www.linkedin.com/in/kifle-haile/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kifle-haile-5a613761" height="30" width="30" />
   </a>
 </p>
 
