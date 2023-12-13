@@ -125,8 +125,8 @@
 
 <h2><i>My GitHub Status</i></h2>
 
-<p><img align="left" src="https://github-readme-stats-kifle23s-projects.vercel.app/api/top-langs?username=kifle23&show_icons=true&locale=en&langs_count=8" alt="kifle23" /></p>
+<p><img align="left" src="https://github-readme-stats-kifle23s-projects.vercel.app/api/top-langs?username=kifle23&show_icons=true&locale=en&langs_count=8&include_all_commits=true" alt="kifle23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-kifle23s-projects.vercel.app/api?username=kifle23&count_private=true&show_icons=true&locale=en" alt="kifle23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-kifle23s-projects.vercel.app/api?username=kifle23&include_all_commits=true&show_icons=true&locale=en" alt="kifle23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kifle23&" alt="kifle"/></p>
