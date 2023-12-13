@@ -126,7 +126,7 @@
 <h2><i>My GitHub Status</i></h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kifle23&show_icons=true&locale=en&langs_count=8" alt="kifle23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kifle23&count-private=true&show_icons=true&locale=en&langs_count=8" alt="kifle23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kifle23&count_private=true&show_icons=true&locale=en" alt="kifle23" /></p>
 
