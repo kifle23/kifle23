@@ -125,5 +125,8 @@
 
 <h2><i>My GitHub Status</i></h2>
 
-| <a href="https://github.com/kifle23/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-bice-21.vercel.app/api?username=kifle23&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kifle23/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-bice-21.vercel.app/api/top-langs/?username=kifle23&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p><img align="left" src="https://github-readme-stats-kappa-bice-21.vercel.app/api/top-langs?username=kifle23&show_icons=true&locale=en&langs_count=8" alt="kifle23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-kappa-bice-21.vercel.app/api?username=kifle23&count_private=true&show_icons=true&locale=en" alt="kifle23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kifle23&" alt="kifle"/></p>
