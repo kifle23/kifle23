@@ -1,6 +1,5 @@
-[![MasterHead](https://eps.leeds.ac.uk/images/shutterstock_1122339353.jpg)]
 <h2><i>Hi there, I'm Kifle!👋</i></h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYS0IaNjtPDYvNuuMSMe5MrF8cZhISxY2WUARNemw0q7VicJNf_36x3kaTtBEa5Us7idOOv0dv-JTsU2E4y4bOmumaA=s1600">
 
 - 🏢 Full Stack Developer **@Microverse**
   
