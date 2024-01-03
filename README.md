@@ -62,7 +62,10 @@
         </a>
         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-        </a>        
+        </a> 
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        </a>
       </p>
     </td>
     <td>
@@ -102,9 +105,6 @@
         </a>
         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
         </a>
       </p>
     </td>
