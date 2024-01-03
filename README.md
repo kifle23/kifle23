@@ -29,7 +29,7 @@
     </td></tr>
   <tr>
     <td>
-      <h4 align="left">Front-end</h4>
+      <h4 align="left">Frontend</h4>
       <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -49,7 +49,7 @@
       </p>
     </td>
     <td>
-      <h4 align="left">Back-end</h4>
+      <h4 align="left">Backend</h4>
       <p align="left">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
