@@ -62,13 +62,7 @@
         </a>
         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-        </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
+        </a>        
       </p>
     </td>
     <td>
@@ -96,6 +90,9 @@
       <p align="left">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>     
+        <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="Kubernetes" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
