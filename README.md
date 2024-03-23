@@ -1,5 +1,5 @@
 <h2><i>Hi there, I'm Kifle!👋</i></h2>
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNs9D80Xc3QuVETotyAEO4Yx4FY64rJV_Zz9YStFDoGW7kXPgyUjwRYsZK_wOLKskLQzZps_WEKbqAWpqFJ1dRaRmcTQ=s1600">
+<img align="right" alt="Coding" width="400" src="./profile.jpg">
 
 - 🏢 Full Stack Developer **@Microverse**
   
@@ -18,7 +18,7 @@
 <h3 align="left" style="display: inline;">Connect with me</h3>
 <p align="left" style="display: inline;">
   <a href="https://www.linkedin.com/in/kifle-haile/" target="blank">
-    <img src="./profile.jpg" alt="kifle-haile-5a613761" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kifle-haile-5a613761" height="30" width="30" />
   </a>
 </p>
 
