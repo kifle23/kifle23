@@ -5,7 +5,7 @@
   
 - ⚡ I’m currently available for new opportunities
   
-- 🌱 10+ years of enterprise development
+- 🌱 10+ years of enterprise development experience
 
 - 🌱 MSc in **Software Engineering**
   
