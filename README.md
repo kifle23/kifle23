@@ -5,7 +5,7 @@
   
 - ⚡ I’m currently available for new opportunities
   
-- 🌱 10+ years of experience developing **dot net projects**
+- 🌱 10+ years of enterprise development
 
 - 🌱 MSc in **Software Engineering**
   
