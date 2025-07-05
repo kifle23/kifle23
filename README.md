@@ -11,7 +11,7 @@
   
 - 🌱 BSc in **Computer Science**
 
-- 👨‍💻 My projects are available [here](https://kifle23.github.io/Portfolio/)
+- 👨‍💻 My projects are available [here](https://portfolio-kifle23s-projects.vercel.app/)
 
 - 📫 How to reach me **kiflekifle23@gmail.com**
 
