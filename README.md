@@ -121,9 +121,9 @@
 
 <h2><i>My GitHub Status</i></h2>
 
-<p><img align="left" src="https://github-readme-stats-kifle23s-projects.vercel.app/api/top-langs?username=kifle23&role=owner,collaborator&layout=compact&theme=buefy&hide_border=true&show_icons=true&locale=en&langs_count=14" alt="kifle23" /></p>
+<p><img align="left" src="https://github-readme-stats-git-master-kifle23s-projects.vercel.app/api/top-langs?username=kifle23&role=owner,collaborator&layout=compact&theme=buefy&hide_border=true&show_icons=true&locale=en&langs_count=14" alt="kifle23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-kifle23s-projects.vercel.app/api?username=kifle23&include_all_commits=true&show_icons=true&locale=en&theme=buefy&hide_border=true&role=owner,collaborator" alt="kifle23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-kifle23s-projects.vercel.app/api?username=kifle23&include_all_commits=true&show_icons=true&locale=en&theme=buefy&hide_border=true&role=owner,collaborator" alt="kifle23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kifle23&hide_border=true" alt="kifle"/>
 </p>
